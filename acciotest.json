@@ -1,0 +1,4 @@
+{
+  "testRepo": "dynamic-background-image-rotation-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
